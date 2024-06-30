@@ -28,7 +28,7 @@ function App() {
           Hi My Name is {getFullName("Janith", "Mihiranga", "Gunawardana")}
         </h1>
         <p>I would like to eat {arr[1]}</p>
-        <p>Good Langauages are </p>
+        <p>Good Programming Langauages are </p>
         <span>{lang}</span>
         <h2>Her name is {objects.fname} and her age is {objects.age} </h2>
       </div>
